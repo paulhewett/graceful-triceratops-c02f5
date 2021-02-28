@@ -85,3 +85,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://graceful-triceratops-c02f5.netlify.app'
